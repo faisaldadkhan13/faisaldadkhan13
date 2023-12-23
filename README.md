@@ -1,6 +1,3 @@
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-
-
 ### Hi there 👋
 
 <H1> Welcome to my github profile.</H1>
@@ -24,5 +21,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 
+<H2>Fine more Below:</H2>
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
