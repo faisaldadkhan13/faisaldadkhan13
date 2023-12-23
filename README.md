@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on open-source projects.
-- 🌱 I’m currently learning AI/ML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Projects
-- 📫 How to reach me: faisaldadkhandevops@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+- 🔭 I’m currently working on open-source projects.
+- 🌱 I’m currently learning AI/ML
+- 💬 Ask me about Projects
+- 📫 How to reach me: faisaldadkhandevops@gmail.com
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
+
+
+
