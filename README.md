@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about Projects
 - 📫 How to reach me: faisaldadkhandevops@gmail.com
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Web Projects
+- 🤔 I’m looking for help with My New Project Idea of Object Detection.
 
 
 <H2>Things I work on:</H2>
